@@ -42,6 +42,17 @@ header {
     padding: 15px;
   }
 
+  .about {
+    position: relative;
+ }
+ 
+ .orb-canvas {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    right: 0;
+ }
+
   .about__image {
     width: 500px;
   }
